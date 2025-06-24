@@ -1,7 +1,7 @@
+schedule
 beautifulsoup4
 requests
 selenium
-schedule
 python-docx
 fpdf
 openai
