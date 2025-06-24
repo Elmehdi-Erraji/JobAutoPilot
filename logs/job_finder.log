@@ -1,0 +1,69 @@
+2025-06-24 16:54:49,032 - INFO - patching driver executable C:\Users\hp\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-24 16:54:50,332 - INFO - Searching Morocco: full stack java developer
+2025-06-24 16:54:58,332 - INFO - Searching Morocco: développeur full stack java
+2025-06-24 16:55:05,729 - INFO - Searching Morocco: java developer full stack
+2025-06-24 16:55:14,604 - INFO - Searching Morocco: senior java developer
+2025-06-24 16:55:23,670 - INFO - Searching Morocco: junior java developer morocco
+2025-06-24 16:55:31,958 - INFO - Found 0 jobs from Indeed Morocco
+2025-06-24 16:55:32,867 - INFO - patching driver executable C:\Users\hp\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-24 16:55:34,203 - INFO - Searching Remote: full stack java developer remote
+2025-06-24 16:55:41,781 - INFO - Searching Remote: java developer visa sponsorship
+2025-06-24 16:55:48,268 - INFO - Searching Germany: full stack java developer remote
+2025-06-24 16:55:57,287 - INFO - Searching Germany: java developer visa sponsorship
+2025-06-24 16:56:05,903 - INFO - Searching France: full stack java developer remote
+2025-06-24 16:56:12,229 - WARNING - Error scraping indeed.fr: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0x10b3b03+62899]
+	GetHandleVerifier [0x0x10b3b44+62964]
+	(No symbol) [0x0xee10f3]
+	(No symbol) [0x0xed08c0]
+	(No symbol) [0x0xeee87f]
+	(No symbol) [0x0xf5514c]
+	(No symbol) [0x0xf6f6a9]
+	(No symbol) [0x0xf4e306]
+	(No symbol) [0x0xf1d670]
+	(No symbol) [0x0xf1e4e4]
+	GetHandleVerifier [0x0x1314793+2556483]
+	GetHandleVerifier [0x0x130fd02+2537394]
+	GetHandleVerifier [0x0x10da2fa+220586]
+	GetHandleVerifier [0x0x10caae8+157080]
+	GetHandleVerifier [0x0x10d141d+184013]
+	GetHandleVerifier [0x0x10bba68+95512]
+	GetHandleVerifier [0x0x10bbc10+95936]
+	GetHandleVerifier [0x0x10a6b5a+9738]
+	BaseThreadInitThunk [0x0x766e5d49+25]
+	RtlInitializeExceptionChain [0x0x7730d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7730d021+561]
+
+2025-06-24 16:56:12,230 - INFO - Searching France: java developer visa sponsorship
+2025-06-24 16:56:12,232 - WARNING - Error scraping indeed.fr: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x10b3b03+62899]
+	GetHandleVerifier [0x0x10b3b44+62964]
+	(No symbol) [0x0xee0f50]
+	(No symbol) [0x0xf1c938]
+	(No symbol) [0x0xf4e3c6]
+	(No symbol) [0x0xf49e72]
+	(No symbol) [0x0xf49406]
+	(No symbol) [0x0xeb3a05]
+	(No symbol) [0x0xeb3f5e]
+	(No symbol) [0x0xeb43fd]
+	GetHandleVerifier [0x0x1314793+2556483]
+	GetHandleVerifier [0x0x130fd02+2537394]
+	GetHandleVerifier [0x0x10da2fa+220586]
+	GetHandleVerifier [0x0x10caae8+157080]
+	GetHandleVerifier [0x0x10d141d+184013]
+	(No symbol) [0x0xeb36d0]
+	(No symbol) [0x0xeb2f47]
+	GetHandleVerifier [0x0x144aa2c+3826908]
+	BaseThreadInitThunk [0x0x766e5d49+25]
+	RtlInitializeExceptionChain [0x0x7730d09b+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7730d021+561]
+
+2025-06-24 16:56:12,290 - INFO - Found 0 jobs from Indeed Europe
+2025-06-24 16:56:13,394 - INFO - patching driver executable C:\Users\hp\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-24 16:56:26,575 - INFO - Found 0 jobs from LinkedIn
+2025-06-24 16:56:26,580 - INFO - Filtered to 0 relevant jobs
+2025-06-24 16:56:26,606 - ERROR - Error saving job data: No module named 'openpyxl'
