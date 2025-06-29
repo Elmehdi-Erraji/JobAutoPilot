@@ -1,0 +1,85 @@
+JOHN DOE
+Software Engineer | Full Stack Developer
+Email: john.doe@email.com | Phone: +212-6XX-XXXXXX | Location: Casablanca, Morocco
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 3+ years of expertise in modern web technologies and software development. Proficient in Java, Spring Boot, React, and JavaScript with a strong background in building scalable applications and microservices architecture. Passionate about clean code, best practices, and continuous learning.
+
+TECHNICAL SKILLS
+• Programming Languages: Java, JavaScript, Python, TypeScript, SQL
+• Backend Technologies: Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs
+• Frontend Technologies: React, Angular, HTML5, CSS3, Bootstrap, Material-UI
+• Databases: MySQL, PostgreSQL, MongoDB, Redis
+• Cloud & DevOps: AWS (EC2, S3, RDS), Docker, Kubernetes, Jenkins, Git
+• Testing: JUnit, Mockito, Selenium, Jest
+• Development Tools: IntelliJ IDEA, VS Code, Maven, Gradle, npm
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Developer | TechCorp Morocco | Jan 2022 - Present
+• Developed and maintained enterprise-level applications serving 15,000+ active users
+• Led a team of 4 developers in implementing microservices architecture using Spring Boot
+• Improved application performance by 45% through code optimization and database tuning
+• Collaborated with cross-functional teams to deliver 12+ projects on time and within budget
+• Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 60%
+• Mentored junior developers and conducted technical interviews
+
+Software Developer | InnovateTech | Jun 2020 - Dec 2021
+• Built responsive web applications using React and Spring Boot for 5+ client projects
+• Integrated third-party APIs and payment gateways (Stripe, PayPal) for e-commerce platforms
+• Participated in code reviews and maintained 95%+ code coverage through unit testing
+• Optimized database queries resulting in 30% faster page load times
+• Collaborated with UI/UX designers to implement pixel-perfect interfaces
+
+Junior Developer | StartupTech | Jan 2020 - May 2020
+• Developed RESTful APIs using Spring Boot for mobile and web applications
+• Created responsive frontend components using React and modern JavaScript (ES6+)
+• Participated in agile development process with daily standups and sprint planning
+• Fixed 50+ bugs and implemented new features based on user feedback
+
+EDUCATION
+Bachelor's Degree in Computer Science | University Hassan II | 2016 - 2020
+• Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering
+• Final Project: E-commerce Web Application using Java Spring and React
+• GPA: 3.7/4.0
+
+PROJECTS
+
+E-Commerce Platform | Full Stack Application
+• Built complete e-commerce solution with product catalog, shopping cart, and payment processing
+• Technologies: React, Spring Boot, MySQL, Stripe API, Docker
+• Features: User authentication, order management, admin dashboard, real-time notifications
+• Deployed on AWS with load balancing and auto-scaling
+
+Task Management System | Team Collaboration Tool
+• Developed project management application with real-time updates and team collaboration
+• Technologies: React, Node.js, MongoDB, Socket.io, JWT authentication
+• Features: Kanban boards, file uploads, commenting system, deadline tracking
+• Implemented responsive design supporting mobile and desktop users
+
+Data Analytics Dashboard | Business Intelligence Tool
+• Created interactive dashboard for data visualization and business insights
+• Technologies: Python, Django, D3.js, PostgreSQL, Chart.js
+• Features: Real-time data processing, custom reports, export functionality
+• Processed 100K+ records with optimized queries and caching
+
+CERTIFICATIONS
+• AWS Certified Developer Associate | Amazon Web Services | 2023
+• Oracle Certified Professional Java SE 11 Developer | Oracle | 2022
+• Professional Scrum Master I (PSM I) | Scrum.org | 2021
+
+LANGUAGES
+• Arabic: Native
+• French: Fluent
+• English: Professional Working Proficiency
+
+ACHIEVEMENTS
+• Led development team that won "Best Innovation Award" at TechCorp Annual Conference 2023
+• Contributed to open-source projects with 200+ GitHub stars
+• Published technical articles on Medium with 1000+ readers
+• Reduced application bugs by 40% through implementation of automated testing
+
+INTERESTS
+• Open Source Contribution | Tech Community Meetups | Continuous Learning
+• Problem Solving | Code Reviews | Mentoring Junior Developers

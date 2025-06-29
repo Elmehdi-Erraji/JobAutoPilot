@@ -1,0 +1,92 @@
+{
+  "user_profile": {
+    "name": "Your Full Name",
+    "email": "your.email@example.com",
+    "phone": "+212-6XX-XXXXXX",
+    "location": "Casablanca, Morocco",
+    "target_positions": [
+      "Full Stack Developer",
+      "Java Developer", 
+      "Software Engineer",
+      "Backend Developer",
+      "Frontend Developer"
+    ],
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "JavaScript",
+      "Python",
+      "MySQL",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "REST APIs",
+      "Microservices",
+      "Angular",
+      "Node.js",
+      "AWS",
+      "Jenkins"
+    ],
+    "experience_years": 3,
+    "education": "Bachelor's Degree in Computer Science",
+    "preferred_locations": [
+      "Casablanca",
+      "Rabat", 
+      "Remote",
+      "Mohammedia"
+    ],
+    "remote_preference": true,
+    "visa_required": false,
+    "salary_min": 8000,
+    "salary_max": 25000,
+    "base_resume_path": "templates/resume_template.txt",
+    "cover_letter_template_path": "templates/cover_letter_template.txt"
+  },
+  "scraping": {
+    "max_jobs_per_site": 30,
+    "delay_min": 2.0,
+    "delay_max": 5.0,
+    "user_agents_rotation": true,
+    "proxy_enabled": false,
+    "proxy_list": [],
+    "headless_mode": false,
+    "stealth_mode": true,
+    "timeout_seconds": 30
+  },
+  "ai": {
+    "openai_api_key": "YOUR_OPENAI_API_KEY_HERE",
+    "model_name": "gpt-3.5-turbo",
+    "max_tokens": 2000,
+    "temperature": 0.4,
+    "fallback_to_local": true,
+    "local_model_path": ""
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "your.email@gmail.com",
+    "password": "your_app_password_here",
+    "use_tls": true
+  },
+  "application": {
+    "max_applications_per_day": 20,
+    "apply_immediately": false,
+    "minimum_match_score": 60.0,
+    "exclude_companies": [
+      "Company to Avoid",
+      "Another Company to Skip"
+    ],
+    "preferred_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Netflix"
+    ],
+    "application_delay_hours": 2
+  },
+  "database_path": "data/jobautopilot.db",
+  "log_level": "INFO",
+  "enable_notifications": true
+}
